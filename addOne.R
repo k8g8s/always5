@@ -1,4 +1,4 @@
-#Group Members: Srinithi Gali and Kaylee Nguyen
+#Group Members: Srinithi Gali and Kaylee Nguyen and Brynn Brown
 
 addOne <- function(userNumber) {
   added1 <- userNumber + 1
