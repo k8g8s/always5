@@ -1,3 +1,5 @@
+#Group Members: Srinithi Gali and Kaylee Nguyen
+
 addOne <- function(userNumber) {
   added1 <- userNumber + 1
   return(added1)
