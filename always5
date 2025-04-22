@@ -1,0 +1,9 @@
+# Group Members: Chloe(Yijun) Lin, Viola(Jinrui) Liu
+
+add9 <- function(number) {
+  addedTogether9 <- number + 9
+  return(addedTogether9)
+}
+
+add9(3)  # This should return 12
+add9(10) # This should return 19
