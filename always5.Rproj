@@ -1,9 +1,5 @@
 Version: 1.0
-<<<<<<< HEAD
-ProjectId: 793bd790-2c17-43aa-9a4f-2a2a8256a044
-=======
-ProjectId: 1f7c5b34-328d-49e5-a69a-b5b763bda8ee
->>>>>>> 8e1b9277275c506692245cbd450bea5f24c1133c
+ProjectId: 26ca0940-dc73-456a-8cf2-4f85ed47b505
 
 RestoreWorkspace: Default
 SaveWorkspace: No
@@ -16,3 +12,8 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Package
+PackageUseDevtools: Yes
+PackageInstallArgs: --no-multiarch --with-keep.source
+PackageRoxygenize: rd,collate,namespace
