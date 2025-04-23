@@ -1,7 +1,7 @@
 Version: 1.0
 ProjectId: 26ca0940-dc73-456a-8cf2-4f85ed47b505
 
-RestoreWorkspace: Default
+RestoreWorkspace: No
 SaveWorkspace: No
 AlwaysSaveHistory: Yes
 

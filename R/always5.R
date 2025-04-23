@@ -1,3 +1,4 @@
+#' @export 
 always5 <- function(userNumber){ 
   
   # check that it's an integer
