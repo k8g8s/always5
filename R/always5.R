@@ -11,7 +11,7 @@ always5 <- function(userNumber){
   # arithmatic 
   out1 <- addOne(userNumber)
   out2 <- addTogether(number = out1, userNumber = userNumber)
-  out3 <- add9(number = out2$sum)
+  out3 <- add9(number = out2)
   out4 <- divide2(number = out3)
   out5 <- subtract(number = out4, userNumber = userNumber)
   
